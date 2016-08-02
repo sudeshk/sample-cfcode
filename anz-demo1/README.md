@@ -14,5 +14,5 @@ The Node.js Starter demonstrates a simple, reusable Node.js web application base
 [Install Node.js]: https://nodejs.org/en/download/
 
 
-<a href="https://bluemix.net/deploy?repository=https://hub.jazz.net/git/idsorg/sample-java-cloudant" target="_blank"><img src="http://bluemix.net/deploy/button.png" alt="Bluemix button" /></a>
+<a href="https://bluemix.net/deploy?repository=https://github.com/sudeshk/sample-cfcode/tree/master/anz-demo1"> <img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
 
