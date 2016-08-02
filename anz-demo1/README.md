@@ -16,3 +16,4 @@ The Node.js Starter demonstrates a simple, reusable Node.js web application base
 
 <a href="https://bluemix.net/deploy?repository=https://github.com/sudeshk/sample-cfcode/tree/master/anz-demo1"> <img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
 
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/sudeshk/sample-cfcode/tree/master/anz-demo1)
